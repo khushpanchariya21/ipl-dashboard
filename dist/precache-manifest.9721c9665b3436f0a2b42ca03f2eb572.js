@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipl-dashboard/404.html"
   },
   {
-    "revision": "71a295b2484fedf8eeca",
+    "revision": "93a53468c02bdc1b7fc1",
     "url": "/ipl-dashboard/css/app.913d0137.css"
   },
   {
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipl-dashboard/img/trivia.a351f85e.svg"
   },
   {
-    "revision": "9aa1a3bef324fd08b92ea7703d3491cc",
+    "revision": "05e228d3f88f04a7156b4cceba6163a1",
     "url": "/ipl-dashboard/index.html"
   },
   {
-    "revision": "71a295b2484fedf8eeca",
-    "url": "/ipl-dashboard/js/app.4fa2cdcd.js"
+    "revision": "93a53468c02bdc1b7fc1",
+    "url": "/ipl-dashboard/js/app.d01b9a93.js"
   },
   {
     "revision": "c0480434631ffce68964",
