@@ -38,7 +38,7 @@
 			</router-link>
 		</ul>
 		<a
-			href="https://github.com/dhruvmisra/IPL-Dashboard-Atlan"
+			href="https://github.com/khushpanchariya21/ipl-dashboard"
 			target="_blank"
 			class="btn btn-dark btn-github"
 			data-aos="fade-in"
