@@ -23,7 +23,7 @@ This dashboard summarizes the past IPL history and trivia statistics. It offers 
 <img src="readme_assets/matches.jpg">
 
 * Query-based route URLs (using match `id`) for each match for easy sharing.
-<img src="readme_assets/url.jpg">
+
 
 * Fully dynamic chart creation using a custom-made component.
 
