@@ -4,12 +4,12 @@
 
 ## Live Demo
 
-[Click here to open the live demo](https://dhruvmisra.github.io/IPL-Dashboard-Atlan/)
-and explore the 10 years of IPL!
+[Click here to open the live demo](https://khushpanchariya21.github.io/ipl-dashboard/)
+and explore Dashboard
 
 ## Description
 
-This dashboard summarizes 10 years of IPL (2008 - 2017) showcasing all the match history and trivia statistics. It offers many SPA functionalities like routing, basic state management, PWA and offline availability. All the data is being parsed from a CSV file and I've tried to make the system as dynamic as possible, allowing modifications to the CSV without affecting the core functionalities and chart generation.
+This dashboard summarizes the past IPL history and trivia statistics. It offers many SPA functionalities like routing, basic state management, PWA and offline availability. All the data is used from a CSV file and have tried to make the system as dynamic as possible, allowing modifications to the CSV without affecting the core functionalities and chart generation.
 
 ## Key features
 
@@ -30,23 +30,17 @@ This dashboard summarizes 10 years of IPL (2008 - 2017) showcasing all the match
 * Setup a seamless SCSS styling workflow for theming, making it as simple as updating one variable to change the look of the entire app.
 
 * Completely responsive.
-
->### How about some trivia about the computation of trivia?
-> All the trivia stats are being computed in a [separate file](src/components/Trivia/trivia.js) using just a single loop! They are stored as an array of objects with each object representing an input for the `Chart` component.
->
-> This gives a good abstraction for the trivia computation with only 1 exported method.
-
 ## Libraries used
 
-* Vue.js
-* Vue Router
-* Chart.js
+* Vue.js 
+* Vue Router - For PWA
+* Chart.js- For statistics
 * Bootstrap (for quick layout designing and theming)
 * AOS (for some simple timed animations)
 
 ## Dataset
 
-Indian Premier League (Match Analysis) by *Saurav Anand* (https://www.kaggle.com/saurav9786/indian-premier-league-match-analysis)
+Indian Premier League (Match Analysis) by *UDITNAMDEV* (https://www.kaggle.com/uditnamdev/ipl-data)
 
 ## Bonus Points
 
@@ -66,7 +60,7 @@ Indian Premier League (Match Analysis) by *Saurav Anand* (https://www.kaggle.com
 
 ## Design inspiration
 
-* This beautiful dashboard by *Umar Aji Pratama*: https://dribbble.com/shots/5507197-Dashboard-Team-Coordination 
+* This beautiful dashboard from the following link https://dribbble.com/shots/5507197-Dashboard-Team-Coordination 
 * Ton of Google searches for other components
 
 ## Project setup
