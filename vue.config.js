@@ -7,7 +7,7 @@ module.exports = {
     }
 	},
 	publicPath: process.env.NODE_ENV === 'production'
-		? '/IPL-Dashboard-Atlan/'
+		? '/ipl-dashboard/'
 		: '/',
 	pwa: {
 		name: 'IPL Dashboard',
